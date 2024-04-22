@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# :blush: About Me
 
 My name is **Zheling Tan (谈喆灵)**. I am currently a doctoral student at Shanghai Jiao Tong University. I hold a bachelor’s degree in Computer Science from the Hongyi Honor College at Wuhan University. My research interest lies in the field of artificial intelligence for healthcare applications. I aim to develop innovative AI algorithms and models that can improve medical service quality, enhance diagnostic efficiency, and reduce healthcare costs.
 
