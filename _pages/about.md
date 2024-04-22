@@ -27,7 +27,7 @@ My name is Zheling Tan (谈喆灵). I am currently a doctoral student at Shangha
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data-Centric Foundation Models in Computational Healthcare: A Survey](https://arxiv.org/pdf/2401.02458.pdf)
