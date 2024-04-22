@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zheling Tan (谈喆灵). I am currently a doctoral student at Shanghai Jiao Tong University. I hold a bachelor’s degree in Computer Science from the Hongyi Honor College at Wuhan University.
-
-My research interest lies in the field of artificial intelligence for healthcare applications. I aim to develop innovative AI algorithms and models that can improve medical service quality, enhance diagnostic efficiency, and reduce healthcare costs.
+My name is Zheling Tan (谈喆灵). I am currently a doctoral student at Shanghai Jiao Tong University. I hold a bachelor’s degree in Computer Science from the Hongyi Honor College at Wuhan University. My research interest lies in the field of artificial intelligence for healthcare applications. I aim to develop innovative AI algorithms and models that can improve medical service quality, enhance diagnostic efficiency, and reduce healthcare costs.
 
 
 <!-- # 🔥 News
@@ -37,7 +35,7 @@ My research interest lies in the field of artificial intelligence for healthcare
 Yunkun Zhang, Jin Gao, **Zheling Tan**, Lingfeng Zhou, Kexin Ding, Mu Zhou, Shaoting Zhang, Dequan Wang
 
 [**Project**](https://github.com/Yunkun-Zhang/Data-Centric-FM-Healthcare) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The advent of foundation models (FMs) as an emerging suite of AI techniques has struck a wave of opportunities in computational healthcare. The interactive nature of these models, guided by pre-training data and human instructions, has ignited a data-centric AI paradigm that emphasizes better data characterization, quality, and scale. In healthcare AI, obtaining and processing high-quality clinical data records has been a longstanding challenge, ranging from data quantity, annotation, patient privacy, and ethics. In this survey, we investigate a wide range of data-centric approaches in the FM era (from model pre-training to inference) towards improving the healthcare workflow. We discuss key perspectives in AI security, assessment, and alignment with human values. Finally, we offer a promising outlook of FM-based analytics to enhance the performance of patient outcome and clinical workflow in the evolving landscape of healthcare and medicine.
 </div>
 </div>
 
